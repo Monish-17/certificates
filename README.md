@@ -9,3 +9,4 @@ Here are the certificates of all my internship, achievements and Course completi
 
 5. Getting started with Python - Online course certificate
 6. OOP in Java - Online course certificate
+7. NICE conference - National Conference participation
